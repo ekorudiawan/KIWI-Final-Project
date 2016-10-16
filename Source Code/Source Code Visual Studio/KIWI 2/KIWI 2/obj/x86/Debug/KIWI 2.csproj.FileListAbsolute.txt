@@ -1,0 +1,52 @@
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\bin\Debug\KIWI 2.exe.config
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\obj\x86\Debug\KIWI 2.exe
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\obj\x86\Debug\KIWI 2.pdb
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\bin\Debug\KIWI 2.exe
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\bin\Debug\KIWI 2.pdb
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\bin\Debug\Modbus.dll
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\bin\Debug\log4net.dll
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\bin\Debug\Unme.Common.dll
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\obj\x86\Debug\KIWI_2.FormAutomatic.resources
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\obj\x86\Debug\KIWI_2.FormChangePassword.resources
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\obj\x86\Debug\KIWI_2.FormMain.resources
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\obj\x86\Debug\KIWI_2.FormRFID.resources
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\obj\x86\Debug\KIWI_2.Properties.Resources.resources
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\kiwi\Desktop\KIWI 2\KIWI 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\KIWI2\Source\KIWI 2\KIWI 2\bin\Debug\KIWI 2.exe.config
+C:\KIWI2\Source\KIWI 2\KIWI 2\obj\x86\Debug\KIWI 2.exe
+C:\KIWI2\Source\KIWI 2\KIWI 2\obj\x86\Debug\KIWI 2.pdb
+C:\KIWI2\Source\KIWI 2\KIWI 2\bin\Debug\KIWI 2.exe
+C:\KIWI2\Source\KIWI 2\KIWI 2\bin\Debug\KIWI 2.pdb
+C:\KIWI2\Source\KIWI 2\KIWI 2\bin\Debug\Modbus.dll
+C:\KIWI2\Source\KIWI 2\KIWI 2\bin\Debug\log4net.dll
+C:\KIWI2\Source\KIWI 2\KIWI 2\bin\Debug\Unme.Common.dll
+C:\KIWI2\Source\KIWI 2\KIWI 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\KIWI2\Source\KIWI 2\KIWI 2\obj\x86\Debug\KIWI_2.FormAutomatic.resources
+C:\KIWI2\Source\KIWI 2\KIWI 2\obj\x86\Debug\KIWI_2.FormChangePassword.resources
+C:\KIWI2\Source\KIWI 2\KIWI 2\obj\x86\Debug\KIWI_2.FormMain.resources
+C:\KIWI2\Source\KIWI 2\KIWI 2\obj\x86\Debug\KIWI_2.Properties.Resources.resources
+C:\KIWI2\Source\KIWI 2\KIWI 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\KIWI2\Source\KIWI 2\KIWI 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\KIWI2\Source\KIWI 2\KIWI 2\obj\x86\Debug\KIWI_2.FormNewReference.resources
+D:\Visual Studio Project\KIWI 2\KIWI 2\bin\Debug\KIWI 2.exe.config
+D:\Visual Studio Project\KIWI 2\KIWI 2\bin\Debug\KIWI 2.exe
+D:\Visual Studio Project\KIWI 2\KIWI 2\bin\Debug\KIWI 2.pdb
+D:\Visual Studio Project\KIWI 2\KIWI 2\bin\Debug\Modbus.dll
+D:\Visual Studio Project\KIWI 2\KIWI 2\bin\Debug\Seagull.BarTender.Print.dll
+D:\Visual Studio Project\KIWI 2\KIWI 2\bin\Debug\log4net.dll
+D:\Visual Studio Project\KIWI 2\KIWI 2\bin\Debug\Unme.Common.dll
+D:\Visual Studio Project\KIWI 2\KIWI 2\bin\Debug\Seagull.Performance.dll
+D:\Visual Studio Project\KIWI 2\KIWI 2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio Project\KIWI 2\KIWI 2\obj\x86\Debug\KIWI_2.FormAutomatic.resources
+D:\Visual Studio Project\KIWI 2\KIWI 2\obj\x86\Debug\KIWI_2.FormChangePassword.resources
+D:\Visual Studio Project\KIWI 2\KIWI 2\obj\x86\Debug\KIWI_2.FormMain.resources
+D:\Visual Studio Project\KIWI 2\KIWI 2\obj\x86\Debug\KIWI_2.FormNewReference.resources
+D:\Visual Studio Project\KIWI 2\KIWI 2\obj\x86\Debug\KIWI_2.Properties.Resources.resources
+D:\Visual Studio Project\KIWI 2\KIWI 2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio Project\KIWI 2\KIWI 2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio Project\KIWI 2\KIWI 2\obj\x86\Debug\KIWI 2.exe
+D:\Visual Studio Project\KIWI 2\KIWI 2\obj\x86\Debug\KIWI 2.pdb

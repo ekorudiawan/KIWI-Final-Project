@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+  <DataEditor>
+    <DataObject>
+      <DataAddress>%I0.0.10</DataAddress>
+      <RetainedValue>0</RetainedValue>
+      <DisplayFormat>2</DisplayFormat>
+    </DataObject>
+    <DataObject>
+      <DataAddress>%I0.0.20</DataAddress>
+      <RetainedValue>0</RetainedValue>
+      <DisplayFormat>2</DisplayFormat>
+    </DataObject>
+    <DataObject>
+      <DataAddress>%I0.0.22</DataAddress>
+      <RetainedValue>0</RetainedValue>
+      <DisplayFormat>2</DisplayFormat>
+    </DataObject>
+  </DataEditor>
+
+
